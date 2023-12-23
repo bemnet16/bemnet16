@@ -14,7 +14,7 @@ I'm a driven and ambitious software engineer known for my hands-on project exper
 * 🤝  I'm open to collaborating on Full Stack web development
 
 <a href="https://www.github.com/bemnet16" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/bemnet16?logo=github&style=for-the-badge&color=facc15&labelColor=134e4a" /></a>
+src="https://img.shields.io/github/followers/bemnet16?logo=github&style=for-the-badge&color=10b981&labelColor=181824" /></a>
 
 ### Skills
 
@@ -32,14 +32,8 @@ src="https://img.shields.io/github/followers/bemnet16?logo=github&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/bemnet16"><img src="https://github-readme-stats.vercel.app/api?username=bemnet16&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=f97316&icon_color=facc15&bg_color=134e4a&hide_border=true&show_icons=true" alt="bemnet16's GitHub stats" /></a>
+<a href="http://www.github.com/bemnet16"><img src="https://github-readme-stats.vercel.app/api?username=bemnet16&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ec4899&icon_color=10b981&bg_color=181824&hide_border=true&show_icons=true" alt="bemnet16's GitHub stats" /></a>
 
-<a href="http://www.github.com/bemnet16"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bemnet16&stroke=f97316&background=134e4a&ring=ffffff&fire=ffffff&currStreakNum=f97316&currStreakLabel=ffffff&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
+<a href="http://www.github.com/bemnet16"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bemnet16&stroke=ec4899&background=181824&ring=ffffff&fire=ffffff&currStreakNum=ec4899&currStreakLabel=ffffff&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
 
-<a href="http://www.github.com/bemnet16"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bemnet16&bg_color=134e4a&color=f97316&line=facc15&point=f97316&area_color=134e4a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/bemnet16" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bemnet16&langs_count=10&title_color=ffffff&text_color=f97316&icon_color=facc15&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/bemnet16/eLearning" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bemnet16&repo=eLearning&title_color=ffffff&text_color=f97316&icon_color=facc15&bg_color=134e4a&hide_border=true&locale=en" /></a><a href="https://github.com/bemnet16/learning-managment-system" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bemnet16&repo=learning-managment-system&title_color=ffffff&text_color=f97316&icon_color=facc15&bg_color=134e4a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<a href="http://www.github.com/bemnet16"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bemnet16&bg_color=181824&color=ec4899&line=10b981&point=ec4899&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
