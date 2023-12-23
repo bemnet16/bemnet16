@@ -7,14 +7,14 @@ Software engineer and Web developer
 I'm a driven and ambitious software engineer known for my hands-on project experience and dedication to innovative solutions. With a strong focus on goal-oriented outcomes and a talent for adapting quickly to new technologies, I thrive in collaborative environments, valuing teamwork and open communication. My approach combines effective time management, open-mindedness, and strategic decision-making, making me a reliable and dynamic contributor to any tech team.
 
 * 🌍  I'm based in Addis Ababa
-* 🖥️  See my portfolio at [My Portfolio](http://github.com/bemnet16)
+* 🖥️  See my portfolio at [My Portfolio](http://learning-management-system-delta.vercel.app)
 * ✉️  You can contact me at [bemnet.adugnaw@aait.edu.et](mailto:bemnet.adugnaw@aait.edu.et)
 * 🚀  I'm currently working on [Anbessame eLearning web app project](http://https://github.com/bemnet16/eLearning)
 * 🧠  I'm learning Cyber Security, Cloud computing
 * 🤝  I'm open to collaborating on Full Stack web development
 
 <a href="https://www.github.com/bemnet16" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/bemnet16?logo=github&style=for-the-badge&color=10b981&labelColor=181824" /></a>
+src="https://img.shields.io/github/followers/bemnet16?logo=github&style=for-the-badge&color=ec4899&labelColor=365314" /></a>
 
 ### Skills
 
@@ -32,8 +32,7 @@ src="https://img.shields.io/github/followers/bemnet16?logo=github&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/bemnet16"><img src="https://github-readme-stats.vercel.app/api?username=bemnet16&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ec4899&icon_color=10b981&bg_color=181824&hide_border=true&show_icons=true" alt="bemnet16's GitHub stats" /></a>
+<a href="http://www.github.com/bemnet16"><img src="https://github-readme-stats.vercel.app/api?username=bemnet16&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=14b8a6&icon_color=ec4899&bg_color=365314&hide_border=true&show_icons=true" alt="bemnet16's GitHub stats" /></a>
 
-<a href="http://www.github.com/bemnet16"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bemnet16&stroke=ec4899&background=181824&ring=ffffff&fire=ffffff&currStreakNum=ec4899&currStreakLabel=ffffff&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
+<a href="http://www.github.com/bemnet16"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bemnet16&stroke=14b8a6&background=365314&ring=facc15&fire=facc15&currStreakNum=14b8a6&currStreakLabel=facc15&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-<a href="http://www.github.com/bemnet16"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bemnet16&bg_color=181824&color=ec4899&line=10b981&point=ec4899&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
