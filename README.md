@@ -14,7 +14,7 @@ I'm a driven and ambitious software engineer known for my hands-on project exper
 * 🤝  I'm open to collaborating on Full Stack web development
 
 <a href="https://www.github.com/bemnet16" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/bemnet16?logo=github&style=for-the-badge&color=facc15&labelColor=22272e" /></a>
+src="https://img.shields.io/github/followers/bemnet16?logo=github&style=for-the-badge&color=84cc16&labelColor=14532d" /></a>
 
 ### Skills
 
@@ -32,6 +32,6 @@ src="https://img.shields.io/github/followers/bemnet16?logo=github&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/bemnet16"><img src="https://github-readme-stats.vercel.app/api?username=bemnet16&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=22c55e&icon_color=facc15&bg_color=22272e&hide_border=true&show_icons=true" alt="bemnet16's GitHub stats" /></a>
+<a href="http://www.github.com/bemnet16"><img src="https://github-readme-stats.vercel.app/api?username=bemnet16&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=facc15&icon_color=84cc16&bg_color=14532d&hide_border=true&show_icons=true" alt="bemnet16's GitHub stats" /></a>
 
-<a href="http://www.github.com/bemnet16"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bemnet16&stroke=22c55e&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=22c55e&currStreakLabel=ffffff&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
+<a href="http://www.github.com/bemnet16"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bemnet16&stroke=facc15&background=14532d&ring=ec4899&fire=ec4899&currStreakNum=facc15&currStreakLabel=ec4899&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
