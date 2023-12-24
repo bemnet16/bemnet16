@@ -13,8 +13,7 @@ I'm a driven and ambitious software engineer known for my hands-on project exper
 * 🧠  I'm learning Cyber Security, Cloud computing
 * 🤝  I'm open to collaborating on Full Stack web development
 
-<a href="https://www.github.com/bemnet16" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/bemnet16?logo=github&style=for-the-badge&color=84cc16&labelColor=14532d" /></a>
+
 
 ### Skills
 
