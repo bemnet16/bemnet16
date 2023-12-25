@@ -10,7 +10,7 @@ I'm a driven and ambitious software engineer known for my hands-on project exper
 * 🖥️  See my portfolio at [My Portfolio](http://learning-management-system-delta.vercel.app)
 * ✉️  You can contact me at [bemnet.adugnaw@aait.edu.et](mailto:bemnet.adugnaw@aait.edu.et)
 * 🚀  I'm currently working on [Anbessame eLearning web app project](http://https://github.com/bemnet16/eLearning)
-* 🧠  I'm learning Cyber Security, Cloud computing
+* 🧠  I'm Currently learning Cyber Security, Cloud computing
 * 🤝  I'm open to collaborating on Full Stack web development
 
 
