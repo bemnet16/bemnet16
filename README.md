@@ -40,4 +40,3 @@ I'm a driven and ambitious software engineer known for my hands-on project exper
 
 <a href="http://www.github.com/bemnet16"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bemnet16&stroke=facc15&background=14532d&ring=ec4899&fire=ec4899&currStreakNum=facc15&currStreakLabel=ec4899&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
-[![Watch the video](url_of_your_screenshot_here)](https://github.com/bemnet16/Portfolio/blob/main/videos/portfolio-demo-video.mp4)
