@@ -9,7 +9,7 @@ I'm a driven and ambitious software engineer known for my hands-on project exper
 * 🌍  I'm based in Addis Ababa
 * 🖥️  See my portfolio at [My-Website](https://portfolio-beryl-iota-73.vercel.app)
 * ✉️  You can contact me at [bemnet.adugnaw@aait.edu.et](mailto:bemnet.adugnaw@aait.edu.et)
-* 🚀  I'm currently working on [Anbessame eLearning web app project](http://https://github.com/bemnet16/eLearning)
+* 🚀  I'm currently working on [Anbessame eLearning web app project](https://github.com/bemnet16/eLearning)
 * 🧠  I'm Currently learning Cyber Security, Cloud computing
 * 🤝  I'm open to collaborating on Full Stack web development
 
