@@ -11,7 +11,7 @@ I'm a driven and ambitious software engineer known for my hands-on project exper
 - ✉️  You can contact me **[bemnet.adugnaw@aait.edu.et](mailto:bemnet.adugnaw@aait.edu.et)**
 - 🚀  I'm currently working on **[Anbessame eLearning web app project](https://github.com/bemnet16/eLearning)**
 - 🧠  I'm Currently learning **Cyber Security, Cloud computing**
-- 🤝  I'm open to collaborating on **Full Stack web development**
+- 🤝  I'm open to collaborate on **Cybersecurity, cloud computing & Full Stack web development**
 
 
 
