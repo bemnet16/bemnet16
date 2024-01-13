@@ -13,7 +13,7 @@ I'm a driven and ambitious software engineer known for my hands-on project exper
 - 🧠  I'm Currently learning **Cyber Security, Cloud computing**
 - 🤝  I'm open to collaborate on **Cybersecurity, cloud computing & Full Stack web development**
 
-[![YouTube Video](https://img.youtube.com/vi/wi8yJdKO1j0/0.jpg)](https://www.youtube.com/embed/wi8yJdKO1j0?si=Dvx_tbQ3L9STUmnb)
+[![YouTube Video](https://img.youtube.com/vi/wi8yJdKO1j0/0.jpg)](https://www.youtube.com/embed/wi8yJdKO1j0)
 
 
 ### 💻 Skills
