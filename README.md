@@ -5,13 +5,12 @@ Software-engineer and Web developer
 -----------------------------------
 
 
-
-- 🌍  I'm based in **Addis Ababa**
-- 🖥️  See my portfolio **[My-Website](https://portfolio-beryl-iota-73.vercel.app)**
-- ✉️  You can contact me **[bemnet.adugnaw@aait.edu.et](mailto:bemnet.adugnaw@aait.edu.et)**
-- 🚀  I'm currently working on **[Anbessame eLearning web app project](https://github.com/bemnet16/eLearning)**
-- 🧠  I'm Currently learning **Cyber Security, Cloud computing**
-- 🤝  I'm open to collaborate on **Cybersecurity, cloud computing & Full Stack web development**
+🌍  I'm based in **Addis Ababa**
+🖥️  See my portfolio **[My-Website](https://portfolio-beryl-iota-73.vercel.app)**
+✉️  You can contact me **[bemnet.adugnaw@aait.edu.et](mailto:bemnet.adugnaw@aait.edu.et)**
+🚀  I'm currently working on **[Anbessame eLearning web app project](https://github.com/bemnet16/eLearning)**
+🧠  I'm Currently learning **Cyber Security, Cloud computing**
+🤝  I'm open to collaborate on **Cybersecurity, cloud computing & Full Stack web development**
 
 
 
