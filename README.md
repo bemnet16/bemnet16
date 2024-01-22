@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) **I'm Bemnet Adugnaw**  
 ======================================================================================================================================
 
-<img src="https://github.com/bemnet16/bemnet16/blob/main/p.gif" height="auto" width="100"/>
+>p align="center"> <img src="https://github.com/bemnet16/bemnet16/blob/main/p.gif" height="auto" width="100"/> </p>
+
 Software-engineer and Web developer
 -----------------------------------
 
