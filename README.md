@@ -33,7 +33,7 @@ I'm a driven and ambitious software engineer known for my hands-on project exper
 </p>
 
 ---------------------
-<b>🌟 GitHub Stats</b>
+**🌟 GitHub Stats**
 
 <a href="http://www.github.com/bemnet16"><img src="https://github-readme-stats.vercel.app/api?username=bemnet16&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=facc15&icon_color=84cc16&bg_color=14532d&hide_border=true&show_icons=true" alt="bemnet16's GitHub stats" /></a>
 
