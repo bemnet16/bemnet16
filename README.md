@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) **I'm Bemnet Adugnaw**  
 ======================================================================================================================================
 
-Software-engineer and Web developer <img src="https://github.com/bemnet16/bemnet16/blob/main/p.gif" height="auto" width="100"/>
+<img src="https://github.com/bemnet16/bemnet16/blob/main/p.gif" height="auto" width="100"/>
+Software-engineer and Web developer
 -----------------------------------
 
 I'm a driven and ambitious software engineer known for my hands-on project experience and dedication to innovative solutions. With a strong focus on goal-oriented outcomes and a talent for adapting quickly to new technologies, I thrive in collaborative environments, valuing teamwork and open communication. My approach combines effective time management, open-mindedness, and strategic decision-making, making me a reliable and dynamic contributor to any tech team.
