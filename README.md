@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software-engineer and Web developer
 -----------------------------------
 
+![External Image](https://github.com/bemnet16/bemnet16/blob/main/senior-software-engineer_Wy82tYQym.gif)
+
 <p>
   <p width="50%">
 I'm a driven and ambitious software engineer known for my hands-on project experience and dedication to innovative solutions. With a strong focus on goal-oriented outcomes and a talent for adapting quickly to new technologies, I thrive in collaborative environments, valuing teamwork and open communication. My approach combines effective time management, open-mindedness, and strategic decision-making, making me a reliable and dynamic contributor to any tech team.
