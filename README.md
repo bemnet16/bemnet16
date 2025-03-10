@@ -13,7 +13,7 @@ I'm a driven and ambitious software engineer and penetration tester known for my
 </p>
 
 - 🖥️  See my portfolio **[My-website](https://portfolio-beryl-iota-73.vercel.app)** <br/> <br/>
-- ✉️  You can contact me **[bemnet.adugnaw@aait.edu.et](mailto:bemnetadugnaw@gmail.com)** <br/> <br/>
+- ✉️  You can contact me **[bemnetadugnaw@gmail.com](mailto:bemnetadugnaw@gmail.com)** <br/> <br/>
 - 🚀  I'm currently working on **[Anbessame eLearning web app project](https://github.com/bemnet16/eLearning)** <br/> <br/>
 - 🧠  I'm Currently learning **Cyber Security, Cloud computing** <br/>
 
